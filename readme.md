@@ -12,4 +12,9 @@
 
 [Email Me](mailto:cosname4967@gmail.com)
 </div>
+<div align="center">
+
+[Email Me](tel:cosname4967@gmail.com)
+</div>
+</p>
 </p>
