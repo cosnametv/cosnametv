@@ -9,7 +9,9 @@
 <br>
 <br>
 <div align="center">
-[call me directly](tel:0712830077)
 [Email Me](mailto:cosname4967@gmail.com)
 </div>
+<div align="center">
+[call me directly](tel:0712830077)
+    </div>
 </p>
