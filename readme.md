@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:cosname4967@gmail.com)
-  Call me on: 0712830077)
+[Email Me](mailto:cosname4967@gmail.com)<br> 
+  Call me on: 0712830077
 </div>
 </p>
