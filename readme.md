@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-[Email Me](tel:0712830077)
+[Call Me](tel:0712830077)
 </div>
 </p>
 </p>
