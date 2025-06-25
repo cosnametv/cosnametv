@@ -1,16 +1,13 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Joseph Waweru </h1>
+---
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-👋 Hi, I’m Joseph Waweru<br>
-👀 I’m interested in Artificial Intelligence, Machine Leraning, Deep Learning and Neural Networks.<br>
-🌱 I’m currently learning Computer Science in a Bachelor's Degree program.<br>
-<br>
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
-<br>
-<br>
-<div align="center">
+## Joseph Waweru
 
-[Email Me](mailto:cosname4967@gmail.com)<br> 
-  Call me on: 0794127966
-</div>
-</p>
+Highly motivated and results-oriented **Computer Science student** with a strong passion for **Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**.
+
+Currently pursuing a Bachelor's Degree in Computer Science, I am dedicated to leveraging technology to create innovative solutions. As a **full-stack software developer**, my goal is to enhance lives through well-designed applications and intuitive websites.
+
+I am also committed to empowering others through education, occasionally creating **coding and technology content** to share knowledge and foster growth within the programming community. Beyond my technical pursuits, I am an enthusiastic athlete, actively involved in **Olympic weightlifting and powerlifting**, which I occasionally share insights on.
+
+---
+
+[Email Me](mailto:cosname4967@gmail.com) | Call me on: 0794127966
