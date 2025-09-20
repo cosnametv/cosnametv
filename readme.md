@@ -15,6 +15,6 @@
 ---
 
 <div align="center">
-    <a href="mailto:cosname4967@gmail.com">Email Me</a> 
+    <a href="mailto:cosname4967@gmail.com">Email Me: Cosname4967@gmail.com</a> 
     <a href="tel:+254738387257">Call Me: +254738387257</a>
 </div>
